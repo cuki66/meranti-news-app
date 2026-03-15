@@ -1,4 +1,3 @@
-# Meranti News App
 
 Aplikasi Android untuk membaca berita dari website Meranti News.
 
